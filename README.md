@@ -2,10 +2,10 @@
     Hi there 👋, I'm Sina Afşar
 </h1>
 <p align="center">
- `Cyber Security` and `Software Developer`
+ `Cyber Security` and `Software Developer` :computer:
 </p>
 <p align="center">
-<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/karcan?color=red&label=stars&logo=github&style=for-the-badge">
+<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/Sina-Afshar?color=red&label=stars&logo=github&style=for-the-badge">
 </p>
 
 <p align="center">

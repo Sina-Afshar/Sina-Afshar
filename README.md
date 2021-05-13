@@ -11,7 +11,7 @@
 <p align="center">
 <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LINKEDIN-D14836?style=for-the-badge&logo=linkedin&logoColor=white&color=blue"></a>
 <a href="https://www.medium.com"><img src="https://img.shields.io/badge/MEDIUM-D14836?style=for-the-badge&logo=medium&logoColor=white&color=gray"></a>
-<a href="https://www.instagram.com/afsaroglu"><img src="https://img.shields.io/badge/INSTAGRAM-D14836?style=for-the-badge&logo=instagram&logoColor=white&color=red"></a>
+<a href="https://www.instagram.com/afsaroglu"><img src="https://img.shields.io/twitter/url?style=social"></a>
 <a href="https://twitter.com"><img src="https://img.shields.io/twitter/follow/sinaa009?style=social"></a>
 </p>
 
